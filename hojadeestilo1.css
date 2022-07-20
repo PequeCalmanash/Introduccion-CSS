@@ -1,0 +1,28 @@
+h1{
+	text-align: left;
+	background-color: grey;
+	color: white;
+}
+.titulo{
+	padding: 80px;
+	background-color: grey;
+}
+img{
+	float: right;
+	max-height: 37.7%;
+	max-width: 37.7%;
+}
+ul{
+	list-style-type: square;
+}
+ol{
+	list-style-type: upper-roman;
+}
+.perfil{
+	background-color: grey;
+	padding: 80px;
+}
+.info{
+	background-color: darkgrey;
+	padding: 80px;
+}
